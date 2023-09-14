@@ -13,7 +13,7 @@ H1{
 #container{
 	border: gray double 10px;
 	width:1230px;
-	height:1040px;
+	height:980px;
 }
 hr{
 	border: 2px solid gray;
@@ -24,7 +24,7 @@ hr{
 #pp{
 	border: gray solid 3px;
 	width:800px;
-	height:770px;
+	height:800px;
 	margin:25px;
 }
 
